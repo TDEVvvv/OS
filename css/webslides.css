@@ -1294,8 +1294,9 @@ h3 [class*="bg-"] {
 /*== 2.2. Typography Classes = .text- == */
 .text-intro,
 [class*="content-"] p {
-  font-size: 2.4rem;
+  font-size: 2.6rem;
   line-height: 4rem;
+  font-weight: 500;
 }
 
 /* -- Serif -- */
